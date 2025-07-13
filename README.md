@@ -21,7 +21,7 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 1   | Two Sum | LeetCode | [day1.cpp](day1.cpp) |
 | 2   | Diagonal Difference | HackerRank | [day2.cpp](day2.cpp) |
 | 3   | Add Two Numbers | LeetCode | [day3.cpp](day3.cpp) |
-| ... | ...     | ...      | ...            |
+| 4   | Longest Substring Without Reapeting Characters | LeetCode | [day4.cpp](day4.cpp) |
 
 ---
 
