@@ -23,5 +23,8 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 3   | Add Two Numbers | LeetCode | [day3.cpp](day3.cpp) |
 | 4   | Longest Substring Without Reapeting Characters | LeetCode | [day4.cpp](day4.cpp) |
 | 5   | Convert binary number in a linked-list-to-integer | LeetCode | [day4.cpp](day5.cpp) |
+| 6   | Valid Word | LeetCode | [day6.cpp](day6.cpp) |
+|    | ...   |... | ...   |
+|   |  | ... | ...     |
 ---
 
