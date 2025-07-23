@@ -28,6 +28,8 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 8   | Palidrome Number | LeetCode | [day8.cpp](day8.cpp) |
 | 9   | StairCase    |  HackerRank  | [day9.cpp](day9.cpp) |
 | 10  | Fancy String |  LeetCode |  [day10.cpp](day10.cpp) |
+| 11  | Median of Two Sorted Arrays |  LeetCode  | [day11.cpp](day12.cpp) |
+| 12  |  Best Time to Buy and Sell Stock | LeetCode | [day12.cpp](day12.cpp) |
 |     |     |        |          |
 |     |     |        |          |
 ---
