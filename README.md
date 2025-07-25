@@ -29,8 +29,9 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 9   | StairCase    |  HackerRank  | [day9.cpp](day9.cpp) |
 | 10  | Fancy String |  LeetCode |  [day10.cpp](day10.cpp) |
 | 11  | Median of Two Sorted Arrays |  LeetCode  | [day11.cpp](day12.cpp) |
-| 12  |  Best Time to Buy and Sell Stock | LeetCode | [day12.cpp](day12.cpp) |
-|     |     |        |          |
-|     |     |        |          |
+| 12  | Best Time to Buy and Sell Stock | LeetCode | [day12.cpp](day12.cpp) |
+| 13  | Best Time to Buy and Sell Stock II | LeetCode |  [day13.cpp](day13.cpp) |
+| 14  | Maximum Subarray Sum with Non-Negative Integers | LeetCode | [day14.cpp](day14.cpp) |
+
 ---
 
