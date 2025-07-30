@@ -32,6 +32,13 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 12  | Best Time to Buy and Sell Stock | LeetCode | [day12.cpp](day12.cpp) |
 | 13  | Best Time to Buy and Sell Stock II | LeetCode |  [day13.cpp](day13.cpp) |
 | 14  | Maximum Subarray Sum with Non-Negative Integers | LeetCode | [day14.cpp](day14.cpp) |
+| 15  | Longest Palindromic Substring | LeetCode | [day15.cpp](day15.cpp) |
+| 16  | ZigZag Conversion | LeetCode |  [day16.cpp](day16.cpp) |
+| 17  | Roman To Integer | LeetCode | [day17.cpp](day17.cpp) |
+| 18  | String To Integer | LeetCode |  [day18.cpp](day18.cpp) |
+| 19  | Longest Common Prefix | LeetCode | [day19.cpp](day19.cpp) |
+| 20  |    | LeetCode | [day20.cpp](day20.cpp) |
+| 21  |    | LeetCode |  [day21.cpp](day21.cpp) |
 
 ---
 
