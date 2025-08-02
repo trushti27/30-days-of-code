@@ -38,7 +38,7 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 18  | String To Integer | LeetCode |  [day18.cpp](day18.cpp) |
 | 19  | Longest Common Prefix | LeetCode | [day19.cpp](day19.cpp) |
 | 20  | Pascal's Triangle | LeetCode | [day20.cpp](day20.cpp) |
-| 21  |    | LeetCode |  [day21.cpp](day21.cpp) |
+| 21  | Vertical Order Traversal of a Binary Tree | LeetCode | [day21.cpp](day21.cpp) |
 
 ---
 
