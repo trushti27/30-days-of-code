@@ -43,7 +43,7 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 23  | Valid Parentheses | LeetCode | [day23.cpp](day23.cpp) |
 | 24  | fruits-into-baskets-ii | LeetCode | [day24.cpp](day24.cpp) |
 | 25  | 3Sum | LeetCode | [day25.cpp](day25.cpp) |
-| 26  |      | LeetCode | [day26.cpp](day26.cpp) |
+| 26  | 4Sum | LeetCode | [day26.cpp](day26.cpp) |
 
 ---
 
