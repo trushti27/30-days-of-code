@@ -44,6 +44,9 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 24  | fruits-into-baskets-ii | LeetCode | [day24.cpp](day24.cpp) |
 | 25  | 3Sum | LeetCode | [day25.cpp](day25.cpp) |
 | 26  | 4Sum | LeetCode | [day26.cpp](day26.cpp) |
-
+| 27  | Merge Two Sorted Lists | LeetCode | [day27.cpp](day27.cpp) |
+| 28  | Remove Duplicates from Sorted Array | LeetCode | [day28.cpp](day28.cpp) |
+| 29  |        | LeetCode | [day29.cpp](day29.cpp) |
+| 30  |        | LeetCode | [day30.cpp](day30.cpp) |
 ---
 
