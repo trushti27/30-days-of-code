@@ -46,7 +46,7 @@ I'm solving one coding problem every day on platforms like [LeetCode](https://le
 | 26  | 4Sum | LeetCode | [day26.cpp](day26.cpp) |
 | 27  | Merge Two Sorted Lists | LeetCode | [day27.cpp](day27.cpp) |
 | 28  | Remove Duplicates from Sorted Array | LeetCode | [day28.cpp](day28.cpp) |
-| 29  |        | LeetCode | [day29.cpp](day29.cpp) |
-| 30  |        | LeetCode | [day30.cpp](day30.cpp) |
+| 29  | Implement strStr() | LeetCode | [day29.cpp](day29.cpp) |
+| 30  | Remove Nth Node From End of List | LeetCode | [day30.cpp](day30.cpp) |
 ---
 
